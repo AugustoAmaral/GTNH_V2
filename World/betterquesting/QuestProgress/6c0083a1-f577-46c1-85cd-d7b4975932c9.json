@@ -13963,15 +13963,23 @@
 		},
 		"822:10": {
 			"questIDHigh:4": 0,
-			"completed:9": {},
+			"completed:9": {
+				"0:10": {
+					"claimed:1": 0,
+					"uuid:8": "6c0083a1-f577-46c1-85cd-d7b4975932c9",
+					"timestamp:4": 1717442229868
+				}
+			},
 			"questIDLow:4": 2898,
 			"tasks:9": {
 				"0:10": {
-					"completeUsers:9": {},
+					"completeUsers:9": {
+						"0:8": "6c0083a1-f577-46c1-85cd-d7b4975932c9"
+					},
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
-								0
+								4
 							],
 							"uuid:8": "6c0083a1-f577-46c1-85cd-d7b4975932c9"
 						}
@@ -17920,7 +17928,13 @@
 		},
 		"1051:10": {
 			"questIDHigh:4": 0,
-			"completed:9": {},
+			"completed:9": {
+				"0:10": {
+					"claimed:1": 0,
+					"uuid:8": "6c0083a1-f577-46c1-85cd-d7b4975932c9",
+					"timestamp:4": 1717435541419
+				}
+			},
 			"questIDLow:4": 1476,
 			"tasks:9": {
 				"0:10": {
@@ -18014,7 +18028,7 @@
 					"userProgress:9": {
 						"0:10": {
 							"uuid:8": "6c0083a1-f577-46c1-85cd-d7b4975932c9",
-							"value:3": 16
+							"value:3": 19
 						}
 					},
 					"index:3": 0,
@@ -25709,11 +25723,11 @@
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
-								0,
 								16,
 								16,
+								16,
 								0,
-								0
+								16
 							],
 							"uuid:8": "6c0083a1-f577-46c1-85cd-d7b4975932c9"
 						}
@@ -30319,7 +30333,13 @@
 		},
 		"1785:10": {
 			"questIDHigh:4": 0,
-			"completed:9": {},
+			"completed:9": {
+				"0:10": {
+					"claimed:1": 0,
+					"uuid:8": "6c0083a1-f577-46c1-85cd-d7b4975932c9",
+					"timestamp:4": 1717438061313
+				}
+			},
 			"questIDLow:4": 1861,
 			"tasks:9": {
 				"0:10": {
@@ -31068,10 +31088,10 @@
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
+								32,
 								0,
-								0,
-								0,
-								0
+								32,
+								16
 							],
 							"uuid:8": "6c0083a1-f577-46c1-85cd-d7b4975932c9"
 						}
@@ -48495,7 +48515,7 @@
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
-								2,
+								0,
 								0
 							],
 							"uuid:8": "6c0083a1-f577-46c1-85cd-d7b4975932c9"
@@ -48506,7 +48526,15 @@
 				},
 				"1:10": {
 					"completeUsers:9": {},
-					"userProgress:9": {},
+					"userProgress:9": {
+						"0:10": {
+							"data:11": [
+								0,
+								6
+							],
+							"uuid:8": "6c0083a1-f577-46c1-85cd-d7b4975932c9"
+						}
+					},
 					"index:3": 1,
 					"taskID:8": "bq_standard:retrieval"
 				},
