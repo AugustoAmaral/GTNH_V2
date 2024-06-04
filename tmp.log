@@ -1,0 +1,137 @@
+ 1068  git add *
+ 1069  git commit -m "test backup"
+ 1070  git add *
+ 1071  git fsck --full
+ 1072  git add *
+ 1073  git commit -m "fix problem on local branch"
+ 1074  git push
+ 1075  git add *
+ 1076  git commit -m "fix problem on local branch 2"
+ 1077  git push
+ 1100  git add *
+ 1101  git commit -m "testing commit"
+ 1102  git push --force-with-lease
+ 1112  git push --force-with-lease
+ 1121  brew install git-filter-repo
+ 1122  sudo snap install git-filter-repo
+ 1127  git clone git@github.com:AugustoAmaral/GTNH.git
+ 1139  git push
+ 1140  git fetch
+ 1358  git clone http://downloads.gtnewhorizons.com/Multi_mc_downloads/betas/GT_New_Horizons_2.6.0-beta-3_Java_17-21.zip
+ 1437  git commit -m "save before reseting firends nbt"
+ 1438  git add .
+ 1439  git commit -m "save before reseting firends nbt"
+ 1440  git push
+ 1441  git add .
+ 1445  git add .
+ 1446  git fsck --full
+ 1448  git fsck --full
+ 1449  git gc --prune=now
+ 1450  git add .
+ 1451  git reset --hard HEAD
+ 1452  git log
+ 1453  git add .
+ 1454  git commit -m "testing commit"
+ 1455  git push
+ 1456  git add .
+ 1457  git reflog
+ 1458  git reset --hard a4e9caf8
+ 1459  git reflog
+ 1474  git reflog
+ 1480  git clone git@github.com:AugustoAmaral/GTNH.git
+ 1484  git clone git@github.com:AugustoAmaral/GTNH.git
+ 1491  git checkout
+ 1493  git add .
+ 1494  git commit -m "Restored backup"
+ 1495  git push
+ 1501  git log
+ 1502  git reflog
+ 1534  git add .
+ 1535  git commit -m "Backup before closing"
+ 1536  git push
+ 1537  git add .
+ 1538  git commit -m "Closed server before reseting Sazamaki"
+ 1539  git push
+ 1540  git add .
+ 1541  git commit -m "Full reset Sazamaki Character"
+ 1542  git push
+ 1544  git add .
+ 1545  git commit -m "Backup manual"
+ 1546  git push
+ 1548  git add .
+ 1549  git commit -m "backup manual 2 - testando script"
+ 1550  git push
+ 1575  git add .
+ 1576  git commit -m "backup antes do reset do hyulles"
+ 1577  git push
+ 1601  git config --global gc.reflogExpire "1 day"
+ 1602  git config --global gc.reflogExpireUnreachable "1 day"
+ 1619  du -sh ./.git/
+ 1620  git gc --aggressive --prune=now
+ 1623  du -sh ./.git/
+ 1624  rm -rf ./.git
+ 1662  git clone git@github.com:AugustoAmaral/GTNH.git
+ 1702  git checkout
+ 1706  git checkout
+ 1711  git checkout
+ 1712  git add .
+ 1713  git commit -m "backup antes do update"
+ 1731  git checkout
+ 1733  git checkout
+ 1735  git checkout
+ 1791  git checkout 1cfc1b7d628b047da0842b425890347a0a98c1ed
+ 1853  git checkout
+ 1914  du -aBm --exclude='./.git' . | grep -v '/$' | sort -rn | head -n 1
+ 1915  du -aBm --exclude='./.git' . | grep -v '/$' | sort -rn | head -n 100
+ 1917  du -aBm --exclude='./.git' . | grep -v '/$' | sort -rn | head -n 100
+ 1921  du -aBm --exclude='./.git' . | grep -v '/$' | sort -rn | head -n 100
+ 1925  du -aBm --exclude='./.git' . | grep -v '/$' | sort -rn | head -n 100
+ 1926  du -aBm --exclude='./.git' . | grep -v '/$' | sort -rn | head -n 1000
+ 1928  git add .
+ 1929  git commit -m "Last commit in the repo"
+ 1930  git push
+ 1931  git add .
+ 1932  git commit -m "Last commit in the repo"
+ 1933  git push
+ 1938  rm -rf .git
+ 1948  du -aBm --exclude='./.git' . | grep -v '/$' | sort -rn | head -n 100
+ 1950  git init
+ 1951  git add .
+ 1953  git lfs install
+ 1954  git lfs track
+ 1955  sudo apt-get install git-lfs
+ 1956  git lfs install
+ 1957  git lfs track "*.jar"
+ 1958  git lfs track "*.cache"
+ 1959  git lfs track "*.mca"
+ 1960  git add .
+ 1961  git commit -m "Initial commit (but not the first one)"
+ 1962  git branch -M main
+ 1963  git remote add origin git@github.com:AugustoAmaral/GTNH_V2.git
+ 1964  git push -u origin mai
+ 1968  git add . -- ':!Wor
+ 1970  git commit -m "Initial commit without world data(but not the first one)"
+ 1971  git push
+ 1972  git branch -M main
+ 1973  git remote add origin git@github.com:AugustoAmaral/GTNH_V2.git
+ 1974  git push -u origin main
+ 1980  git add World/
+ 1982  git add /Dim0
+ 1983  git add ./DIM0
+ 1984  git add ./DIM1
+ 1985  git commit -m "adding region"
+ 1986  git push
+ 1990  git add ./region/
+ 1991  git commit -m "Adding region files"
+ 1992  git push
+ 1994  git add .
+ 1995  git commit -m "adding missing files"
+ 1996  git push
+ 1997  git checkout
+ 2010  git add .
+ 2011  git commit -m "backup manual"
+ 2012  git push
+ 2013  git checkout
+ 2014  history 0 | grep git
+ 2018  history | grep git
+ 2019  history | grep git >> tmp.log
