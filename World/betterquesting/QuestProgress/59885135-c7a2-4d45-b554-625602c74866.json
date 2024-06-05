@@ -13708,11 +13708,13 @@
 			"questIDLow:4": 783,
 			"tasks:9": {
 				"0:10": {
-					"completeUsers:9": {},
+					"completeUsers:9": {
+						"0:8": "59885135-c7a2-4d45-b554-625602c74866"
+					},
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
-								0,
+								29,
 								1,
 								1
 							],
