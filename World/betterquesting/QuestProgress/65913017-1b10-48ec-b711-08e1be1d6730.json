@@ -27472,7 +27472,13 @@
 		},
 		"1362:10": {
 			"questIDHigh:4": 0,
-			"completed:9": {},
+			"completed:9": {
+				"0:10": {
+					"claimed:1": 0,
+					"uuid:8": "65913017-1b10-48ec-b711-08e1be1d6730",
+					"timestamp:4": 1717591435777
+				}
+			},
 			"questIDLow:4": 2095,
 			"tasks:9": {
 				"0:10": {
@@ -35825,7 +35831,13 @@
 		},
 		"1774:10": {
 			"questIDHigh:4": 0,
-			"completed:9": {},
+			"completed:9": {
+				"0:10": {
+					"claimed:1": 0,
+					"uuid:8": "65913017-1b10-48ec-b711-08e1be1d6730",
+					"timestamp:4": 1717591383213
+				}
+			},
 			"questIDLow:4": 2088,
 			"tasks:9": {
 				"0:10": {
@@ -44431,7 +44443,13 @@
 		},
 		"2187:10": {
 			"questIDHigh:4": 0,
-			"completed:9": {},
+			"completed:9": {
+				"0:10": {
+					"claimed:1": 0,
+					"uuid:8": "65913017-1b10-48ec-b711-08e1be1d6730",
+					"timestamp:4": 1717591546824
+				}
+			},
 			"questIDLow:4": 2100,
 			"tasks:9": {
 				"0:10": {
