@@ -6501,7 +6501,13 @@
 		},
 		"310:10": {
 			"questIDHigh:4": 0,
-			"completed:9": {},
+			"completed:9": {
+				"0:10": {
+					"claimed:1": 0,
+					"uuid:8": "7800f48a-7838-4eb7-950f-43ec1aa76cf7",
+					"timestamp:4": 1718458093681
+				}
+			},
 			"questIDLow:4": 1318,
 			"tasks:9": {
 				"0:10": {
@@ -10472,7 +10478,13 @@
 		},
 		"499:10": {
 			"questIDHigh:4": 0,
-			"completed:9": {},
+			"completed:9": {
+				"0:10": {
+					"claimed:1": 0,
+					"uuid:8": "7800f48a-7838-4eb7-950f-43ec1aa76cf7",
+					"timestamp:4": 1718457197164
+				}
+			},
 			"questIDLow:4": 823,
 			"tasks:9": {
 				"0:10": {
@@ -10494,7 +10506,13 @@
 		},
 		"500:10": {
 			"questIDHigh:4": 0,
-			"completed:9": {},
+			"completed:9": {
+				"0:10": {
+					"claimed:1": 0,
+					"uuid:8": "7800f48a-7838-4eb7-950f-43ec1aa76cf7",
+					"timestamp:4": 1718458106858
+				}
+			},
 			"questIDLow:4": 1315,
 			"tasks:9": {
 				"0:10": {
@@ -14666,7 +14684,13 @@
 		},
 		"699:10": {
 			"questIDHigh:4": 0,
-			"completed:9": {},
+			"completed:9": {
+				"0:10": {
+					"claimed:1": 0,
+					"uuid:8": "7800f48a-7838-4eb7-950f-43ec1aa76cf7",
+					"timestamp:4": 1718458103378
+				}
+			},
 			"questIDLow:4": 1312,
 			"tasks:9": {
 				"0:10": {
@@ -45614,7 +45638,13 @@
 		},
 		"2136:10": {
 			"questIDHigh:4": 0,
-			"completed:9": {},
+			"completed:9": {
+				"0:10": {
+					"claimed:1": 0,
+					"uuid:8": "7800f48a-7838-4eb7-950f-43ec1aa76cf7",
+					"timestamp:4": 1718458111954
+				}
+			},
 			"questIDLow:4": 1326,
 			"tasks:9": {
 				"0:10": {
@@ -57755,7 +57785,13 @@
 		},
 		"2693:10": {
 			"questIDHigh:4": 0,
-			"completed:9": {},
+			"completed:9": {
+				"0:10": {
+					"claimed:1": 0,
+					"uuid:8": "7800f48a-7838-4eb7-950f-43ec1aa76cf7",
+					"timestamp:4": 1718458475234
+				}
+			},
 			"questIDLow:4": 1260,
 			"tasks:9": {
 				"0:10": {
@@ -63150,7 +63186,13 @@
 		},
 		"2942:10": {
 			"questIDHigh:4": 0,
-			"completed:9": {},
+			"completed:9": {
+				"0:10": {
+					"claimed:1": 0,
+					"uuid:8": "7800f48a-7838-4eb7-950f-43ec1aa76cf7",
+					"timestamp:4": 1718458479920
+				}
+			},
 			"questIDLow:4": 2523,
 			"tasks:9": {
 				"0:10": {
