@@ -6473,7 +6473,7 @@
 							"data:11": [
 								1,
 								0,
-								0,
+								1,
 								1,
 								1,
 								0,
@@ -19703,11 +19703,13 @@
 			"questIDLow:4": 1327,
 			"tasks:9": {
 				"0:10": {
-					"completeUsers:9": {},
+					"completeUsers:9": {
+						"0:8": "3f4be91d-e2b4-432b-ba2d-ae289c46c6a0"
+					},
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
-								0
+								16
 							],
 							"uuid:8": "3f4be91d-e2b4-432b-ba2d-ae289c46c6a0"
 						}
@@ -32620,11 +32622,13 @@
 			"questIDLow:4": 2754,
 			"tasks:9": {
 				"0:10": {
-					"completeUsers:9": {},
+					"completeUsers:9": {
+						"0:8": "3f4be91d-e2b4-432b-ba2d-ae289c46c6a0"
+					},
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
-								0,
+								1,
 								1,
 								1,
 								1,
