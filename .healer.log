@@ -1,7 +1,5 @@
-Tue Jun 18 10:48:27 UTC 2024 PatchStage selected: PRELOAD
-Tue Jun 18 10:48:27 UTC 2024 Processing context: com.gtnewhorizons.retrofuturabootstrap.RfbSystemClassLoader@f6f4d33@287095360
-Tue Jun 18 10:48:27 UTC 2024 Processing context: net.minecraft.launchwrapper.LaunchClassLoader@5dda768f@1222908765
-Tue Jun 18 10:48:27 UTC 2024 Processing context: jdk.internal.loader.ClassLoaders$AppClassLoader@5ffd2b27@1374212198
-Tue Jun 18 10:48:27 UTC 2024 Replaced factory
-Tue Jun 18 11:34:45 UTC 2024 Accepting new context post launch
-Tue Jun 18 11:34:45 UTC 2024 Processing context: net.minecraft.launchwrapper.LaunchClassLoader@5dda768f@1155379747
+Tue Jun 18 11:48:13 UTC 2024 PatchStage selected: PRELOAD
+Tue Jun 18 11:48:13 UTC 2024 Processing context: com.gtnewhorizons.retrofuturabootstrap.RfbSystemClassLoader@f6f4d33@287095360
+Tue Jun 18 11:48:13 UTC 2024 Processing context: net.minecraft.launchwrapper.LaunchClassLoader@5dda768f@1222908765
+Tue Jun 18 11:48:13 UTC 2024 Processing context: jdk.internal.loader.ClassLoaders$AppClassLoader@5ffd2b27@1374212198
+Tue Jun 18 11:48:13 UTC 2024 Replaced factory
