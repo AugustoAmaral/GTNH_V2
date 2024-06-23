@@ -57349,12 +57349,14 @@
 					"taskID:8": "bq_standard:optional_retrieval"
 				},
 				"1:10": {
-					"completeUsers:9": {},
+					"completeUsers:9": {
+						"0:8": "65913017-1b10-48ec-b711-08e1be1d6730"
+					},
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
 								8,
-								0
+								4
 							],
 							"uuid:8": "65913017-1b10-48ec-b711-08e1be1d6730"
 						}
@@ -57367,7 +57369,7 @@
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
-								2
+								0
 							],
 							"uuid:8": "65913017-1b10-48ec-b711-08e1be1d6730"
 						}
