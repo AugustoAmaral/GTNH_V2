@@ -24146,7 +24146,7 @@
 				"0:10": {
 					"claimed:1": 1,
 					"uuid:8": "7800f48a-7838-4eb7-950f-43ec1aa76cf7",
-					"timestamp:4": 1719236066872
+					"timestamp:4": 1719239800128
 				}
 			},
 			"questIDLow:4": 2742,
@@ -29722,7 +29722,7 @@
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
-								8
+								4
 							],
 							"uuid:8": "7800f48a-7838-4eb7-950f-43ec1aa76cf7"
 						}
@@ -52583,7 +52583,15 @@
 			"tasks:9": {
 				"0:10": {
 					"completeUsers:9": {},
-					"userProgress:9": {},
+					"userProgress:9": {
+						"0:10": {
+							"data:11": [
+								0,
+								1
+							],
+							"uuid:8": "7800f48a-7838-4eb7-950f-43ec1aa76cf7"
+						}
+					},
 					"index:3": 0,
 					"taskID:8": "bq_standard:retrieval"
 				}
