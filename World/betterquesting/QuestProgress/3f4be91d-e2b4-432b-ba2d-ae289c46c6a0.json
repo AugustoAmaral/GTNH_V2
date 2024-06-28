@@ -38854,7 +38854,7 @@
 								0,
 								0,
 								0,
-								0,
+								1,
 								0,
 								1,
 								1,
@@ -38886,7 +38886,15 @@
 				},
 				"6:10": {
 					"completeUsers:9": {},
-					"userProgress:9": {},
+					"userProgress:9": {
+						"0:10": {
+							"data:11": [
+								0,
+								4
+							],
+							"uuid:8": "3f4be91d-e2b4-432b-ba2d-ae289c46c6a0"
+						}
+					},
 					"index:3": 6,
 					"taskID:8": "bq_standard:optional_retrieval"
 				},
