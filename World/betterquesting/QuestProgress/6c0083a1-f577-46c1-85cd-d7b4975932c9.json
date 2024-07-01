@@ -5856,7 +5856,13 @@
 		},
 		"292:10": {
 			"questIDHigh:4": 0,
-			"completed:9": {},
+			"completed:9": {
+				"0:10": {
+					"claimed:1": 0,
+					"uuid:8": "6c0083a1-f577-46c1-85cd-d7b4975932c9",
+					"timestamp:4": 1719871495736
+				}
+			},
 			"questIDLow:4": 2982,
 			"tasks:9": {
 				"0:10": {
@@ -22319,7 +22325,13 @@
 		},
 		"1125:10": {
 			"questIDHigh:4": 0,
-			"completed:9": {},
+			"completed:9": {
+				"0:10": {
+					"claimed:1": 0,
+					"uuid:8": "6c0083a1-f577-46c1-85cd-d7b4975932c9",
+					"timestamp:4": 1719869989420
+				}
+			},
 			"questIDLow:4": 3252,
 			"tasks:9": {
 				"0:10": {
@@ -29829,7 +29841,13 @@
 		},
 		"1509:10": {
 			"questIDHigh:4": 0,
-			"completed:9": {},
+			"completed:9": {
+				"0:10": {
+					"claimed:1": 0,
+					"uuid:8": "6c0083a1-f577-46c1-85cd-d7b4975932c9",
+					"timestamp:4": 1719859121727
+				}
+			},
 			"questIDLow:4": 2981,
 			"tasks:9": {
 				"0:10": {
@@ -33724,7 +33742,13 @@
 		},
 		"1706:10": {
 			"questIDHigh:4": 0,
-			"completed:9": {},
+			"completed:9": {
+				"0:10": {
+					"claimed:1": 0,
+					"uuid:8": "6c0083a1-f577-46c1-85cd-d7b4975932c9",
+					"timestamp:4": 1719870007582
+				}
+			},
 			"questIDLow:4": 3224,
 			"tasks:9": {
 				"0:10": {
@@ -45930,7 +45954,7 @@
 								0,
 								0,
 								0,
-								0,
+								24,
 								0
 							],
 							"uuid:8": "6c0083a1-f577-46c1-85cd-d7b4975932c9"
@@ -54071,7 +54095,13 @@
 		},
 		"2719:10": {
 			"questIDHigh:4": 0,
-			"completed:9": {},
+			"completed:9": {
+				"0:10": {
+					"claimed:1": 0,
+					"uuid:8": "6c0083a1-f577-46c1-85cd-d7b4975932c9",
+					"timestamp:4": 1719870706840
+				}
+			},
 			"questIDLow:4": 3226,
 			"tasks:9": {
 				"0:10": {
@@ -62910,7 +62940,13 @@
 		},
 		"3146:10": {
 			"questIDHigh:4": 0,
-			"completed:9": {},
+			"completed:9": {
+				"0:10": {
+					"claimed:1": 0,
+					"uuid:8": "6c0083a1-f577-46c1-85cd-d7b4975932c9",
+					"timestamp:4": 1719867620846
+				}
+			},
 			"questIDLow:4": 3257,
 			"tasks:9": {
 				"0:10": {
